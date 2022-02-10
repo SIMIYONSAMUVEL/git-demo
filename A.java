@@ -16,6 +16,7 @@ public class A {
 		s.setEmpId(100);
 		s.setEmpName("Ajay");
 		s.setEmpNumber(9876543210l);
+//comment
 
 		Sam s1 = new Sam();
 		s1.setEmpId(200);
